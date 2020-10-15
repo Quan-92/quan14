@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b6aac28-e089-4a2b-829e-b4fe0926ca43" name="Default Changelist" comment="ccc">
-      <change beforePath="$PROJECT_DIR$/Admin/WebstormProjects/untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/WebstormProjects/untitled1/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4b6aac28-e089-4a2b-829e-b4fe0926ca43" name="Default Changelist" comment="ccc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +69,7 @@
       <workItem from="1602565444784" duration="736000" />
       <workItem from="1602689642953" duration="609000" />
       <workItem from="1602725107075" duration="4695000" />
-      <workItem from="1602730749764" duration="1578000" />
+      <workItem from="1602730749764" duration="1611000" />
     </task>
     <task id="LOCAL-00001" summary="abc">
       <created>1602726619577</created>
@@ -87,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602731683130</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ccc">
+      <created>1602732364178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602732364178</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
