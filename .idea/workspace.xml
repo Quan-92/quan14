@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b6aac28-e089-4a2b-829e-b4fe0926ca43" name="Default Changelist" comment="abc">
+    <list default="true" id="4b6aac28-e089-4a2b-829e-b4fe0926ca43" name="Default Changelist" comment="ccc">
       <change beforePath="$PROJECT_DIR$/Admin/WebstormProjects/untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/WebstormProjects/untitled1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <workItem from="1602565444784" duration="736000" />
       <workItem from="1602689642953" duration="609000" />
       <workItem from="1602725107075" duration="4695000" />
-      <workItem from="1602730749764" duration="901000" />
+      <workItem from="1602730749764" duration="1578000" />
     </task>
     <task id="LOCAL-00001" summary="abc">
       <created>1602726619577</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602726619577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ccc">
+      <created>1602731683130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602731683130</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="abc" />
-    <option name="LAST_COMMIT_MESSAGE" value="abc" />
+    <MESSAGE value="ccc" />
+    <option name="LAST_COMMIT_MESSAGE" value="ccc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="547" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602565467148">
@@ -115,9 +123,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="559" y="133" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602556190440" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602726758232">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602731711193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602726758232" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602731711193" />
   </component>
 </project>
