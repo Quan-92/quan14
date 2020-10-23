@@ -1,0 +1,53 @@
+.cart-icon{
+    font-size: 150px;
+    color: green;
+}
+.form-group{
+    font-size: 15px;
+    color: black;
+    padding: 10px 5px;
+    width: 470px;
+}
+input[name="first name"]{
+    font-size: 15px;
+    color: black;
+    padding: 5px 10px;
+    width: 235px;
+    /*padding-right: 5px;*/
+    float: left;
+    margin-right: 15px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+input[name="last name"]{
+    font-size: 15px;
+    color: black;
+    padding: 5px 10px;
+    width: 200px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.section{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding-top: 20px;
+    background-image: url(https://s2.thingpic.com/images/Q8/TWbB36XEjgJE4PuwSfHbdvTf.jpeg?tl_rmxId=-3036172967238234170);
+}
+.month{
+    width: 225px;
+    float: left;
+    margin-right: 10px;
+}
+.day{
+    width: 115px;
+    float: left;
+    margin-right: 10px;
+}
+.year {
+    width: 100px;
+    float: left;
+}
+.btn-success{
+    margin-left: 177px;
+}
